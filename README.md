@@ -1,6 +1,5 @@
 ## Hiii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm MangDTech
-<div align="center">
-<img align="center" height="auto" src="https://avatars.githubusercontent.com/u/76415081?v=4"/>
+
 
 ___
 
